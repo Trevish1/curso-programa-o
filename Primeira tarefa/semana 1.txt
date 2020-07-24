@@ -1,0 +1,21 @@
+            SEMANA 1 
+
+1= Algoritmos são sequencias de passos finitos para obter uma "resposta" ou seja é como se fosse uma receita que mostra o passo a passo de como chegar a determinada coisa, tambem pode ser feita de sequencias variadas (mas que obtenha a "resposta" certa).
+
+2= Acordar - se arrumar(escovar os dentes, tomar banho etc) - arrumar as malas - sair de casa - ir para o seu meio de transporte(carro, moto etc) - chegar ao destino - e ser feliz :).
+
+3= Variavel é um espaço na memoria que contém uma informação(valor) que o computador vai ler de acordo com a execução do programa, é chamada de variável pois o valor varia com o tempo não é exatamente fixo e só armazena um tipo de dado, pode ser representado como linhas de codigo que executam uma função de acordo com o que elas foram programadas pra fazer.
+
+4= Tipo Inteiro- dados numéricos positivos ou negativos, dados pertencentes ao conjunto de números( negativos, positivos, nulos)
+
+Real- Compreende os números inteiros e fracionários, "são dados pertencentes aos números reais da matemática"
+
+Caracter- Compreende caracteres alfa-numéricos (a-z,A-Z,0-9), e deve ficar delimitado por apóstrofes
+
+Cadeia- Compreende uma sequência de caracteres que se constitui de letras, números ou simbolos, deve ficar delimitados por aspas duplas
+
+Lógico- Armazena os valores lógicos True (verdadeiro), False (falso)
+
+Vazio-  É o resultado de uma função que retorna, mas não fornece um valor de resultado, termina por atingir o final da função ou executando um comando retorne sem valor retornado.
+
+Constante- Usada pra armazenar valores que não sofram qualquer alteração ao longo da execução, são a mesma coisa mas a diferança é que os valores não mudam.
